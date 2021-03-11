@@ -1,7 +1,24 @@
-.wrapper {
-    max-width: 990px;
+.input {
     display: grid;
-    grid-template-rows: 200px 200px 200px;
-    grid-template-columns: 200px 200px 200px;
-    grid-gap: 10px;
+    justify-content: center;
+}
+
+form {
+    margin: 30px;
+}
+
+input {
+    width: 300px;
+    height: 40px;
+    padding: 25px;
+}
+
+.wrapper {
+    display: grid;
+    justify-content: center;
+    grid-template-rows: repeat(3, 200px);
+    grid-template-columns: repeat(4, 200px);
+    grid-gap: 30px;
+    margin: auto;
+    max-width: 990px;
 }
