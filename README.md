@@ -1,3 +1,1 @@
 # portfolio_project_5
-# proj5_interactive_photo_gallery
-# proj5_interactive_photo_gallery
