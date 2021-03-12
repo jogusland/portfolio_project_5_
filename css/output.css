@@ -8,9 +8,10 @@ form {
 }
 
 input {
-  width: 300px;
+  width: 550px;
   height: 40px;
-  padding: 25px;
+  padding: 25px 0px 25px 10px;
+  font-size: medium;
 }
 
 .wrapper {
